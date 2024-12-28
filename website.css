@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+.navbar{
+    height: 70px;
+    width: 100;
+    display: flex;
+    align-items: center;
+}
+.navbar img{
+    background-size: cover;
+    width: 87px;
+    height: 20px;
+    margin-left: 20px;
+    color: white;
+}
+.midnav{
+    height: 20px;
+    width: 50;
+    color: black;
+    margin-left: 400px;
+    display: flex;
+}
+
+.research{
+    font-size: 11px;
+    font-weight: 800;
+    padding: 0 15px 0 15px;
+}
+.product{
+    font-size: 11px;
+    font-weight: 800;
+    padding: 0 15px 0 15px;
+}
+.studios{
+    font-size: 11px;
+    font-weight: 800;
+    padding: 0 15px 0 15px;
+}
+.company{
+    font-size: 11px;
+    font-weight: 800;
+    padding: 0 15px 0 15px;
+}
+.getstarted{
+    margin-left: 370px;
+}
+.getstarted button{
+    border-radius: 22px;
+    font-size: 14px;
+    padding: 9px;
+    font-weight: 600;
+    background-color: transparent;
+    
+}
+.getstarted button:hover{
+    background-color: black;
+    color: white;
+    transition-duration: 280ms;
+    transition-timing-function: ease-in;
+}
