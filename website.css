@@ -16,6 +16,7 @@
     margin-left: 20px;
     color: white;
 }
+
 .midnav{
     height: 20px;
     width: 50;
@@ -29,20 +30,32 @@
     font-weight: 800;
     padding: 0 15px 0 15px;
 }
+.research:hover{
+    cursor: pointer;
+}
 .product{
     font-size: 11px;
     font-weight: 800;
     padding: 0 15px 0 15px;
+}
+.product:hover{
+    cursor: pointer;
 }
 .studios{
     font-size: 11px;
     font-weight: 800;
     padding: 0 15px 0 15px;
 }
+.studios:hover{
+    cursor: pointer;
+}
 .company{
     font-size: 11px;
     font-weight: 800;
     padding: 0 15px 0 15px;
+}
+.company:hover{
+    cursor: pointer;
 }
 .getstarted{
     margin-left: 370px;
@@ -53,11 +66,11 @@
     padding: 9px;
     font-weight: 600;
     background-color: transparent;
-    
 }
 .getstarted button:hover{
     background-color: black;
     color: white;
+    cursor: pointer;
     transition-duration: 280ms;
     transition-timing-function: ease-in;
 }
