@@ -57,9 +57,11 @@
 .company:hover{
     cursor: pointer;
 }
+
 .getstarted{
     margin-left: 370px;
 }
+
 .getstarted button{
     border-radius: 22px;
     font-size: 14px;
