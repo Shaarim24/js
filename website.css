@@ -4,7 +4,7 @@
     border: border-box;
 }
 .navbar{
-    height: 70px;
+    height: 700px;
     width: 100;
     display: flex;
     align-items: center;
@@ -16,6 +16,11 @@
     margin-left: 20px;
     color: white;
 }
+.main{
+    background-size: cover;
+    height: 700px;
+    width: 100;
+}
 
 .midnav{
     height: 20px;
@@ -24,6 +29,7 @@
     margin-left: 400px;
     display: flex;
 }
+
 
 .research{
     font-size: 11px;
@@ -57,11 +63,9 @@
 .company:hover{
     cursor: pointer;
 }
-
 .getstarted{
     margin-left: 370px;
 }
-
 .getstarted button{
     border-radius: 22px;
     font-size: 14px;
@@ -69,7 +73,6 @@
     font-weight: 600;
     background-color: transparent;
 }
-
 .getstarted button:hover{
     background-color: black;
     color: white;
