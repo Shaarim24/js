@@ -674,3 +674,9 @@ flex-direction: column;
 .thtxt{
   padding-top: 10px;
 }
+.thtxt a:hover{
+  color: #3A5BCC;
+}
+.thholder:hover{
+  cursor: pointer;
+}
