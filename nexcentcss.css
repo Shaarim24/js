@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+    font-family: "Bricolage Grotesque", sans-serif;
+    border: border-box;
+    box-sizing: border-box;
+    background-color: #f5f7fa;
+  }
+  .nav{
+        height: 80px;
+        width: 100;
+        display: flex;
+        align-items: center;
+        margin-top: 10px;
+  }
+  .logo{
+    height: 90px;
+    width: 100px;
+    display: flex;
+    background-size: cover;
+    margin-left: 60px;
+  }
+  .nav-mid{
+    margin-left: 100px;
+    width: 800px;
+    height: 80px;
+    /* background-color: black; */
+    align-items: center;
+    /* justify-content: center; */
+    display: flex;
+  }
+.home{
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.service{
+  margin-left: 60px;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+}
+.feature{
+  margin-left: 60px;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+}
+.product{
+  margin-left: 60px;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+}
+.testi{
+  margin-left: 60px;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+}
+.faq{
+  margin-left: 60px;
+  font-weight: 500;
+  font-size: 15px;
+  cursor: pointer;
+}
+.rightnav{
+  display: flex;
+  width: 200px;
+}
+.login{
+  /* margin-left: 60px; */
+  height: 80px;
+  align-items: center;
+  display: flex;
+  font-weight: 500;
+  font-size: 14px;
+  color: #52ae57;
+  cursor: pointer;
+}
+.signup{
+  padding-left: 30px;
+  align-items: center;
+  display: flex;
+  cursor: pointer;
+}
+.signup button{
+  padding: 10px 20px 10px 20px;
+  border-radius: 6px;
+  background-color: #52ae57;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+/* mid */
+.midbody{
+  height: 600px;
+  width: 100;
+  /* background-color: aqua; */
+  margin-top: 10px;
+  display: flex;
+}
+.leftmid{
+  height: 600px;
+  width: 750px;
+  /* background-color: black; */
+}
+.rightmid{
+  height: 500px;
+  width: 500px;
+  padding-top: 90px;
+  background-size: cover;
+}
+.paraleft{
+  margin-top: 180px;
+  margin-left: 150px;
+  height: 65px;
+  width: 500px;
+  font-size: 50px;
+  font-weight: 600;
+  color: #4d4d4d;
+  display: flex;
+  align-items: center;
+}
+.para2{
+  margin-left: 150px;
+  height: 65px;
+  width: 500px;
+  font-size: 50px;
+  font-weight: 600;
+  color: #52ae57;
+  display: flex;
+  align-items: center;
+}
+.para3{
+  margin-left: 150px;
+  height: 65px;
+  width: 500px;
+  font-weight: 400;
+  color: #717171;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+.reg{
+  margin-left: 150px;
+  height: 65px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+}
+.reg button{
+  padding: 15px 30px 15px 30px;
+  border-radius: 5px;
+  color: white;
+  background-color: #52ae57;
+  border: none;
+}
